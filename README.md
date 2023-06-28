@@ -41,4 +41,7 @@ The Pi to USB Connection is wired this way. however we will need the power and g
 ![pi zero connections](https://github.com/beigeworm/PwnPi-A.L.O.A-OLED-build/assets/93350544/bcd37e6b-703c-44ed-a7fd-41443321f5f7)
 
 
+This is the wiring diagram for the complete setup.
+
+> Wiring diagram for the PwnPi OLED
 
