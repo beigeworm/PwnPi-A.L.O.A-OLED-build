@@ -33,7 +33,7 @@ A Toy switch 1P2T ON-OFF Toggle Switch
 A USB 2.0 3.0 Male A Type USB PCB Connector Plug
 > https://www.aliexpress.com/item/1005005242362610.html
 
-
+# If you like my work please leave a star. ⭐
 # Build Process
 
 **3D printing the shell**
