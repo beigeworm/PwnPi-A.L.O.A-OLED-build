@@ -37,11 +37,17 @@ Now you have all the parts needed, you can start.
 
 The Pi to USB Connection is wired this way. however we will need the power and ground pads for the battery circuit. 
 
-> Example.
+> Example Pi connections
 ![pi zero connections](https://github.com/beigeworm/PwnPi-A.L.O.A-OLED-build/assets/93350544/bcd37e6b-703c-44ed-a7fd-41443321f5f7)
 
+> Example USB-A Male Connections
+![usb pin config](https://github.com/beigeworm/PwnPi-A.L.O.A-OLED-build/assets/93350544/774ecdb3-0cae-427a-a515-564bf327376c)
 
 This is the wiring diagram for the complete setup.
 
 > Wiring diagram for the PwnPi OLED
+![pwnpi wiring](https://github.com/beigeworm/PwnPi-A.L.O.A-OLED-build/assets/93350544/6bbbe1c1-cf29-4079-9d14-39eb79de04ec)
 
+
+
+MEGA LINK - (linkhere)
