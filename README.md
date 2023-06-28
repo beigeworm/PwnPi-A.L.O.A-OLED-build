@@ -50,15 +50,20 @@ The Pi to USB Connection is wired this way. however we will need the power and g
 ![usb pin config](https://github.com/beigeworm/PwnPi-A.L.O.A-OLED-build/assets/93350544/774ecdb3-0cae-427a-a515-564bf327376c)
 
 This is the wiring diagram for the complete setup.
+---------------------------------------------------------------
 *Wiring diagram for the PwnPi OLED*
 ![pwnpi wiring](https://github.com/beigeworm/PwnPi-A.L.O.A-OLED-build/assets/93350544/6bbbe1c1-cf29-4079-9d14-39eb79de04ec)
 
 **Flash the image**
+----------------------------------------------
 download a pre compliled image below. (This has a few extra Features and HID scripts)
 MEGA LINK - [(PwnPi Pre-Compiled Image)](https://mega.nz/file/NKM1ADhA#GfjLaQDG3jB-ZaelmY2fpgAcOww2rvMk4XxPc_uo8h0)
 
-Use rufus to flash the image to an SD card (no need to unzip)
+Use rufus to flash the image to an SD card (You dont need to unzip the file before flashing)
+----------------------------------------------
 the SD card should be at least 16GB in size.
 
 Assemble the parts in the base and hot glue the switch down and the USB-A connector
-Glue the battery and charging board to the underside of the screen (the USB Micro connector should be centered flush to the edge of the screen board underneath the 3 buttons on top)
+
+Glue the battery and charging board to the underside of the screen 
+(the USB Micro connector should be centered flush to the edge of the screen board underneath the 3 buttons on top)
