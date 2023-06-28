@@ -4,7 +4,7 @@
 
 **A useful instruction guide for building a complete PwnPi A.L.O.A with OLED screen.**
 ------------------------------------------------------------------------
-you can connect to USB on a target machine using the itegrated connector or using the microUSB port closest to the mini-HDMI port on the side of the Pi.
+you can connect to USB on a target machine using the integrated connector or using the microUSB port closest to the mini-HDMI port on the side of the Pi.
 you can power the Pwnpi from the integrated USB connection however, it cannot charge the internal battery this can only be done using the microUSB port at the rear of the device.
 
 ***ONLY use this project for EDUCATIONAL PURPOSES.***
