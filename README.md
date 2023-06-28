@@ -50,4 +50,5 @@ This is the wiring diagram for the complete setup.
 
 
 
-MEGA LINK - (linkhere)
+MEGA LINK - [(linkhere)](https://mega.nz/file/NKM1ADhA#GfjLaQDG3jB-ZaelmY2fpgAcOww2rvMk4XxPc_uo8h0)
+https://mega.nz/file/NKM1ADhA#GfjLaQDG3jB-ZaelmY2fpgAcOww2rvMk4XxPc_uo8h0
