@@ -28,13 +28,13 @@ A USB 2.0 3.0 Male A Type USB PCB Connector Plug
 
 # Build Process
 
-3D Printing
+**3D printing the shell**
 Use the stl files to create a .gcode file for the printer.
 
 You will also need a soldering iron with the necessary materials and some thin guage wire.
 Now you have all the parts needed, you can start.
 
-
+**Wiring The components**
 The Pi to USB Connection is wired this way. however we will need the power and ground pads for the battery circuit. 
 
 > Example Pi connections
@@ -48,7 +48,9 @@ This is the wiring diagram for the complete setup.
 > Wiring diagram for the PwnPi OLED
 ![pwnpi wiring](https://github.com/beigeworm/PwnPi-A.L.O.A-OLED-build/assets/93350544/6bbbe1c1-cf29-4079-9d14-39eb79de04ec)
 
+**Flash the image**
+download a pre compliled image below.
+MEGA LINK - [(PwnPi Pre-Compiled Image)](https://mega.nz/file/NKM1ADhA#GfjLaQDG3jB-ZaelmY2fpgAcOww2rvMk4XxPc_uo8h0)
 
-
-MEGA LINK - [(linkhere)](https://mega.nz/file/NKM1ADhA#GfjLaQDG3jB-ZaelmY2fpgAcOww2rvMk4XxPc_uo8h0)
-https://mega.nz/file/NKM1ADhA#GfjLaQDG3jB-ZaelmY2fpgAcOww2rvMk4XxPc_uo8h0
+Use rufus to flash the image to an SD card (no need to unzip)
+the SD card should be at least 16GB in size.
