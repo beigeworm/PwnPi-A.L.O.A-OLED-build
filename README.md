@@ -35,5 +35,10 @@ You will also need a soldering iron with the necessary materials and some thin g
 Now you have all the parts needed, you can start.
 
 
+The Pi to USB Connection is wired this way. however we will need the power and ground pads for the battery circuit. 
+
+> Example.
+![pi zero connections](https://github.com/beigeworm/PwnPi-A.L.O.A-OLED-build/assets/93350544/bcd37e6b-703c-44ed-a7fd-41443321f5f7)
+
 
 
