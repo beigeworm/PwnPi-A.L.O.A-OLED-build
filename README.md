@@ -56,7 +56,7 @@ This is the wiring diagram for the complete setup.
 
 # Setting Up
 
-**Flash the image**
+
 ----------------------------------------------
 download a pre compliled image below. (This has a few extra Features and HID scripts)
 MEGA LINK - [(PwnPi Pre-Compiled Image)](https://mega.nz/file/NKM1ADhA#GfjLaQDG3jB-ZaelmY2fpgAcOww2rvMk4XxPc_uo8h0)
