@@ -54,6 +54,8 @@ This is the wiring diagram for the complete setup.
 *Wiring diagram for the PwnPi OLED*
 ![pwnpi wiring](https://github.com/beigeworm/PwnPi-A.L.O.A-OLED-build/assets/93350544/6bbbe1c1-cf29-4079-9d14-39eb79de04ec)
 
+# Setting Up
+
 **Flash the image**
 ----------------------------------------------
 download a pre compliled image below. (This has a few extra Features and HID scripts)
