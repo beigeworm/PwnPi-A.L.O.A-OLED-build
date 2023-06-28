@@ -33,7 +33,6 @@ A Toy switch 1P2T ON-OFF Toggle Switch
 A USB 2.0 3.0 Male A Type USB PCB Connector Plug
 > https://www.aliexpress.com/item/1005005242362610.html
 
-# If you like my work please leave a star. ⭐
 # Build Process
 
 **3D printing the shell**
@@ -57,7 +56,6 @@ This is the wiring diagram for the complete setup.
 
 # Setting Up
 
-
 ----------------------------------------------
 download a pre compliled image below. (This has a few extra Features and HID scripts)
 MEGA LINK - [(PwnPi Pre-Compiled Image)](https://mega.nz/file/NKM1ADhA#GfjLaQDG3jB-ZaelmY2fpgAcOww2rvMk4XxPc_uo8h0)
@@ -70,3 +68,6 @@ Assemble the parts in the base and hot glue the switch down and the USB-A connec
 
 Glue the battery and charging board to the underside of the screen 
 (the USB Micro connector should be centered flush to the edge of the screen board underneath the 3 buttons on top)
+
+==================================================
+# If you like my work please leave a star. ⭐
