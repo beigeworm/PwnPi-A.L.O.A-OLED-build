@@ -2,6 +2,8 @@
 A useful instruction guide to the PwnPi A.L.O.A with OLED screen. 
 ![pwnpi](https://github.com/beigeworm/PwnPi-A.L.O.A-OLED-build/assets/93350544/4615baae-d304-4dcb-b97c-1cad73f19d43)
 
+**A useful instruction guide to the PwnPi A.L.O.A with OLED screen.**
+
 This project is based on:
 https://github.com/RoganDawes/P4wnP1_aloa
 using this for the OLED:
