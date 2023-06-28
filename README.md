@@ -2,18 +2,24 @@
 ======================================================================
 ![pwnpi](https://github.com/beigeworm/PwnPi-A.L.O.A-OLED-build/assets/93350544/a63c79e8-6ab7-4907-bed0-55f05df03062)
 
-**A useful instruction guide to the PwnPi A.L.O.A with OLED screen.**
+**A useful instruction guide for building a complete PwnPi A.L.O.A with OLED screen.**
+------------------------------------------------------------------------
+you can connect to USB on a target machine using the itegrated connector or using the microUSB port closest to the mini-HDMI port on the side of the Pi.
+you can power the Pwnpi from the integrated USB connection.
+you can ONLY use this project for EDUCATIONAL PURPOSES.
 
 This project is based on:
----------------------------------------
+--------------------------------------------------------------------------
 https://github.com/RoganDawes/P4wnP1_aloa
 **using this project for the OLED:**
 https://github.com/beboxos/P4wnP1_ALOA_OLED_MENU_V2
 
 # CONTENTS
+---------------------------------------------------------------------------
 1. Shopping List
 2. Build Process
 3. Setting Up
+---------------------------------------------------------------------------
 
 # Shopping list
 A Raspberry Pi Zero W (with GPIO Header) *not Zero2*
