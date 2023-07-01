@@ -45,7 +45,14 @@ A USB 2.0 3.0 Male A Type USB PCB Connector Plug
 **3D printing the shell**
 Use the stl files to create a .gcode file for the printer.
 
-You will also need a soldering iron with the necessary materials and some thin guage wire.
+You will also need a soldering iron with the necessary materials
+
+some thin guage wire
+
+Hot Glue and Glue Gun
+
+And some superglue..
+
 Now you have all the parts needed, you can start.
 
 **Wiring The components**
@@ -76,6 +83,10 @@ Assemble the parts in the base and hot glue the switch down and the USB-A connec
 
 Glue the battery and charging board to the underside of the screen 
 (the USB Micro connector should be centered flush to the edge of the screen board underneath the 3 buttons on top)
+
+Glue down the lid with superglue and leave to dry..
+
+Insert the SD card and now you have a working PwnPi OLED!
 
 ==================================================
 # If you like my work please leave a star. ⭐
